@@ -13,7 +13,8 @@
     "@vueuse/core": "^10.7.1",
     "pinia": "^2.1.7",
     "prismjs": "^1.29.0",
-    "vue": "^3.3.11"
+    "vue": "^3.3.11",
+    "wrangler": "^3.102.0"
   },
   "devDependencies": {
     "@types/node": "^22.10.6",
